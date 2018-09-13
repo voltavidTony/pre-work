@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pre-Work App</string>
+    <string name="hello_world">Hello World</string>
+    <string name="change_font_color">Change Font Color</string>
+    <string name="hello_from_anthony">Hello from Anthony!</string>
+    <string name="android_is_awesome">Android is awesome!</string>
+    <string name="change_background">Change Background</string>
+    <string name="change_text">Change Text</string>
+</resources>
